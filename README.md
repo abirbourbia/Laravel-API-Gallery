@@ -68,7 +68,7 @@ php artisan migrate
 php artisan storage:link
 ```
 
-##Running the App
+## Running the App
 
 Make sure Apache/Nginx and MySQL are running in Laragon
 
